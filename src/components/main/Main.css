@@ -1,0 +1,45 @@
+.login{
+    width: 500px;
+    height: 450px;
+    background-color: #fff;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 85px;
+    border-radius: 35px;
+}
+
+.login h1 {
+  padding-top: 30px;
+  color: lightblack;
+}
+
+.input4  {
+    width: 300px;
+    height: 30px;
+    border: none;
+    border-bottom: 2px solid black;
+    margin-bottom: 25px;
+}
+
+.code  {
+    margin-left: 180px;
+}
+.login2 button{
+ width: 200px;
+ height: 30px;
+ background-color: rgb(64, 64, 252);
+ color: #fff;
+ margin-top: 35px;
+ font-size: 15px;
+ border-radius: 50px;
+ margin-bottom: 30px;
+}
+.input p{
+    margin-right: 250px;
+    font-size: 12px;
+}
+
+.login button:hover{
+    background-color:lightblue;
+}

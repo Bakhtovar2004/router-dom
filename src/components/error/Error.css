@@ -1,0 +1,11 @@
+.error {
+ margin-top: 280px;
+}
+.error button {
+    width: 150px;
+    height: 35px;
+    background-color: rgb(67, 67, 255);
+    color: white;
+    border-radius: 20px;
+  
+}

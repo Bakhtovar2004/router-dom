@@ -1,0 +1,43 @@
+.btns {
+  display: flex;
+  justify-content: center;
+}
+
+.addUser button {
+  width: 100px;
+  height: 35px;
+  border-radius: 50px;
+  border: 1px black solid;
+  margin: 0px 30px 0px 30px;
+  gap: 0px;
+  background-color: transparent;
+}
+
+button:hover {
+  background-color: lightgrey;
+}
+
+.btns button {
+  width: 100px;
+  height: 35px;
+  border-radius: 50px;
+  border: 1px black solid;
+  margin: 0px 30px 0px 30px;
+  gap: 0px;
+  background-color: transparent;
+}
+.card button {
+  width: 100px;
+  height: 35px;
+  border-radius: 50px;
+  border: 1px black solid;
+  background-color: transparent;
+}
+.card button:hover {
+  background-color: bisque;
+}
+.style {
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+}

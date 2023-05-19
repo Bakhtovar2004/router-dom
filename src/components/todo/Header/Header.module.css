@@ -1,0 +1,30 @@
+.root{
+    height: 80px;
+    font-size: 24px;
+    color: #fff;
+    background:blue ;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 20px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    border-radius: 20px 0px 20px 0px;
+    margin-top: 20px;
+   
+}
+
+body{
+    background-image: url(https://thumbs.dreamstime.com/z/todo-list-seamless-pattern-universal-background-66678083.jpg);
+}
+div{
+    color:grey;
+      text-align: center;
+    }
+    
+    button {
+      border: 0;
+    
+    }

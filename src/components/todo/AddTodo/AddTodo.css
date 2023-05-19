@@ -1,0 +1,18 @@
+.inputs input {
+    width: 350px;
+    height: 30px;
+    padding-left: 15px;
+    
+}
+
+.inputs button {
+ height: 35px;
+ border: 1px black solid;
+
+}
+
+.inputs button{
+    height: 35px;
+    border: 1px black solid;
+    margin-top: 10px;
+}
